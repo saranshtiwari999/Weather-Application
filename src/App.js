@@ -1,11 +1,12 @@
 
 import './App.css';
 import Weather from "./Weather";
+import WeatherApp from "./Weather";
 
 function App() {
   return (
     <div>
-      <Weather/>
+      <WeatherApp/>
       {/*  <h3>Something Wrong</h3>*/}
     </div>
   );
